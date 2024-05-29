@@ -1,0 +1,8 @@
+function run_all_resting_state_fc
+% Runs all 4 scripts to compute functional connectivity,
+% interhemispherical and intrahemispherical connectivity
+conn_mat_group_level_script
+conn_compare_control_vs_PD_script
+conn_mat_group_comparison_InterHC_script
+conn_mat_group_comparison_IntraHC_script
+end
