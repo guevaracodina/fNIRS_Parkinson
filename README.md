@@ -1,4 +1,4 @@
-# fNIRS_Parkinson
+# Functional Near-Infrared Spectroscopy Reveals Delayed Hemodynamic Changes in the Primary Motor Cortex During Fine Motor Tasks and Decreased Interhemispheric Connectivity in Parkinson's Disease Patients
 
 This code processes the dataset containing functional near-infrared spectroscopy (fNIRS) data from 20 patients with Parkinson’s disease and 20 age- and sex-matched healthy subjects without movement disorders. There are 3 folders, each corresponding to a different task: a 10-second finger-tapping task, a 2-minute walking task, and a 6-minute resting-state. 
 
