@@ -10,6 +10,6 @@ Guevara, E., Solana-Lavalle, G., & Rosas-Romero, R. (2024). Integrating fNIRS an
 
 Guevara, E., Kolosovas-Machuca, E. S., & Rodríguez-Leyva, I. (2024). Exploring motor cortex functional connectivity in Parkinson’s disease using fNIRS. _Brain Organoid and Systems Neuroscience Journal_, **2**, 23–30. https://doi.org/10.1016/j.bosn.2024.04.001
 
-Code to process the fNIRS data of Parkinson's Disease Patients and matched controls available in Guevara, E., et al. Zenodo. https://doi.org/10.5281/zenodo.7966830
+fNIRS data of Parkinson's Disease Patients and matched controls are available in Guevara, E., et al. Zenodo. https://doi.org/10.5281/zenodo.7966830
 
 ![Depiction of delayed hemodynamic responses in the primary motor cortex of Parkinson’s disease patients using fNIRS. Probe location and sensitivity profile are included to illustrate our findings.](figures/NeuroPhotonics_cover.png)
