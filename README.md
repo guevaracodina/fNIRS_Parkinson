@@ -12,4 +12,6 @@ Guevara, E., Kolosovas-Machuca, E. S., & Rodríguez-Leyva, I. (2024). Exploring 
 
 fNIRS data of Parkinson's Disease Patients and matched controls are available in Guevara, E., et al. Zenodo. https://doi.org/10.5281/zenodo.7966830
 
+Analysis of fNIRS signals with Machine learning source code: https://github.com/GabrielSolana29/rs_fNIRS_PD
+
 ![Depiction of delayed hemodynamic responses in the primary motor cortex of Parkinson’s disease patients using fNIRS. Probe location and sensitivity profile are included to illustrate our findings.](figures/NeuroPhotonics_cover.png)
